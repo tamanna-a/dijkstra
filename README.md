@@ -1,5 +1,5 @@
 
-<div><h1>Dijkstra's Algorithm</h1>
+<div><h1>Dijkstra's - Shortest Path Between Cities</h1>
 
 <p>In this project, we implement Dijkstra's algorithm to find shortest paths between pairs of cities on a map. It includes a GUI that lets you visualize the map and the path your algorithm finds between two cities.</p>
 
